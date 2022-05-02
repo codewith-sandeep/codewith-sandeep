@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MEAN Stack,JAVA full stack
 - 💞️ I’m looking to work and contribute in this coding game
 - 📫 How to reach me ...my mail id - spv397@gmail.com & iamsan_deep@yahoo.com
-- follow me on Linkedin---https://www.linkedin.com/in/sandeep-v-03b30a209/
+- for more details click on link-> https://www.linkedin.com/in/sandeep-v-03b30a209/
 
 <!---
 codewith-sandeep/codewith-sandeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
